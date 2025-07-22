@@ -1,1 +1,1 @@
-Live link : 
+Live link : https://azizulhakim6817.github.io/g3-architecture-website/
